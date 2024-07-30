@@ -1,0 +1,5 @@
+CREATE TABLE user ();
+
+SELECT * FROM teachers;
+
+INSERT INTO
